@@ -18,15 +18,15 @@ class HomeSection extends Component {
 					            <strong>LOGO </strong>	    
 						  	</div>
 						  	<div name="left-menu" className="navigation">
-					            <a>ABOUT </a>
-					            <a>COMUNNITY </a>
-					            <a>LOCATION </a>
-					            <a>OUR MENU </a>
-					            <a>RECIPES </a>
+					            <a className="navigation1">ABOUT </a>
+					            <a className="navigation1">COMUNNITY </a>
+					            <a className="navigation1">LOCATION </a>
+					            <a className="navigation1">OUR MENU </a>
+					            <a className="navigation1">RECIPES </a>
 						  	</div>
 						  	<div name="right-menu" className="navigation">
-					            <a>CONTACT </a>
-					            <a>LOGIN </a>
+					            <a className="navigation2">CONTACT </a>
+					            <a className="navigation2">LOGIN </a>
 						  	</div>
 					  	</div>
 				  		<div name="left-subsection"></div>

@@ -1,9 +1,10 @@
-home-section {
-	width: 768px;
-	height: 1366px;
+* {
+    box-sizing: border-box;
 }
 
 .big-pic {
+	display: block;
+
 	margin-top: 100px;
     margin-right: 150px;
     margin-left: 80px;
@@ -18,6 +19,17 @@ home-section {
 .navigation {
 	display: inline-block;
 	background: #FFDAC9;
+	padding-right: 57px;
+
+}
+
+.navigation1 {
+	padding-right: 57px;
+
+}
+
+.navigation2{
+	padding-right: 57px;
 
 }
 
