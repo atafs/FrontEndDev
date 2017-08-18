@@ -1,0 +1,58 @@
+home-section {
+	width: 768px;
+	height: 1366px;
+}
+
+.big-pic {
+	margin-top: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+	height: 400px;
+
+	background-size: cover;
+	background: url('./images/bg-pic.png') no-repeat center center;
+
+}
+
+.navigation {
+	display: inline-block;
+	background: #FFDAC9;
+
+}
+
+.home-section {
+	background: #FFDAC9;
+
+}
+
+.text {
+	color: white;
+	padding-top: 120px;
+
+}
+
+.text1 {
+	color: white;
+	font-size: 40px;
+	align: center;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+.text2 {
+	color: white;
+	text-align: center;
+}
+
+.stamp:after {
+    content: "LOGO";
+    position: absolute;
+    top: 70px;
+    left: 150px;
+    z-index: 1;
+    font-family: Arial,sans-serif;
+    transform: rotate(-30deg);
+    font-size: 30px;
+}
